@@ -23,7 +23,7 @@
       "marca": "mapped",
       "precio": 300,
       "descuento": 10,
-      "stock": true,
+      "stock": false,
       "categoria": "artistica"
    },
    {
